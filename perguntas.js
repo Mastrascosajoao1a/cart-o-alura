@@ -1,17 +1,23 @@
 criaCartao(
     'Matemática',
-    '435 + 278?',
-    '713'
+    'Qual o Resultado de 5x5',
+    '25'
 )
 
 criaCartao(
-    'Português',
-    'Qual acento tem na palavra você?',
-    'Acento circunflexo'
+    'Matemática',
+    '10% de 100',
+    '10'
 )
 
 criaCartao(
-    'Matématica',
-    '20 x 15',
-    '350'
+    'Matemática',
+    'Qual o Resultado de 10-6',
+    '4'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual o Resultado de 1+1?',
+    '2'
 )
